@@ -1,0 +1,24 @@
+{
+  "name": "workshop-antalya-js-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funcodingworkshop/workshop-antalya-js-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funcodingworkshop/workshop-antalya-js-challenges/issues"
+  },
+  "homepage": "https://github.com/funcodingworkshop/workshop-antalya-js-challenges#readme",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "prettier": "^2.8.8"
+  }
+}
